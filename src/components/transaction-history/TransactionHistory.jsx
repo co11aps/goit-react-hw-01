@@ -1,4 +1,4 @@
-import css from "./TransactionHistiry.module.scss";
+import "./TransactionHistiry.module.scss";
 
 const TransactionHistory = ({ items }) => {
   return (
